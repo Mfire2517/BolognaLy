@@ -12,7 +12,7 @@ public class test1
     
     public static int minus(int a, int b)
     {
-        return a-b;
+        return a - b;
     }
     
 }
